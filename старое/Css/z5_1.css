@@ -1,0 +1,23 @@
+
+
+a:hover{
+    color:#A54029 ;
+}
+a{
+    color:#F2856D  ;
+}
+
+
+a{
+    background-color:#8CFFD6  ;
+}
+
+
+
+
+a::selection{
+    background-color:#a0ca07cd  ;
+}
+a::selection{
+    color:#A54029  ;
+}

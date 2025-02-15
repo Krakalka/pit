@@ -1,0 +1,56 @@
+.a1{
+    background-color: aliceblue;
+    width: 270px;
+    height: 510px;
+    float: left;
+    border-radius: 9%;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
+}
+
+.a2{
+    background-color: darkturquoise;
+    width: 270px;
+    height: 510px;
+    float: left;
+    border-radius: 9%;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
+}
+.a3{
+    width: 355px;
+    height: 40px;
+    float: left;
+}
+.a4{
+    width: 80px;
+    height: 40px;
+    float: left;
+}
+.c1:hover{
+    background-color: rgb(186, 39, 39);
+    color: blue;
+    width: 137px;
+    height: 43px;
+    border-radius: 12%;
+    box-shadow: 0 5px 9px rgba(0, 0, 0, 0.35);
+}
+.c1{
+    background-color: orangered;
+    padding-top: 19px;
+    color:  lightskyblue;
+    width: 133px;
+    height: 38px;
+    border-radius: 8%;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+.e1{
+    background-color: orangered;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+.e2{
+    background-color:Lavender;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
