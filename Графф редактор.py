@@ -23,6 +23,12 @@ while n != "end":
         break
         w = w.replace(".", " ")
         print (w)
+    elif n== "save":
+        q = input("file name: ")
+        q = q+".txt"
+        p = open(q, "w+")
+        p.write(w)
+        p.close()
     else:
         print("unnown comand")
     u=n
